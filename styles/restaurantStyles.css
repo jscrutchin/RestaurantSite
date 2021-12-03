@@ -23,6 +23,11 @@ footer {
   padding: 20px;
 }
 
+.jumbotron {
+  background-color: #1f3541;
+  color: #edf2f3;
+}
+
 nav {
   border-top: thin #5b7d87 solid;
   border-bottom: thin #5b7d87 solid;
@@ -38,12 +43,8 @@ nav .btn:hover {
 }
 
 a {
-  color: #edf2f3;
+  color: #1f3541;
   text-decoration: underline;
-}
-
-a:visited {
-  color: #5289b5;
 }
 
 a:hover {
